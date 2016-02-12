@@ -1,5 +1,6 @@
-set linebreak
-set number
 set breakindent
-set numberwidth=1
 set columns=72
+set linebreak
+set nojoinspaces
+set number
+set numberwidth=1
